@@ -36,7 +36,7 @@ static const AddrNeedToPatch g_AddrNeedToPatch[] =
 	{ "D2Client.dll", 0xC39F7, g_D2ClientImageBase },
 	{ "D2Client.dll", 0xC39FD, g_D2ClientImageBase },
 	{ "D2Client.dll", 0xCDE02, g_D2ClientImageBase },
-	{ "D2Client.dll", 0xCDE32, g_D2ClientImageBase },
+	{ "D2Client.dll", 0xCDE33, g_D2ClientImageBase },
 	{ "D2Client.dll", 0xCDE52, g_D2ClientImageBase },
 	{ "D2Client.dll", 0xCDE60, g_D2ClientImageBase },
 	{ "D2Client.dll", 0xCDE91, g_D2ClientImageBase },
